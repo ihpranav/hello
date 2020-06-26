@@ -6,7 +6,7 @@
 
 <?php
 echo "Hello World!";
-echo "This is student from UNNNATI"
+echo "This is student from UNNNATI!"
 ?>
 
 </body>
